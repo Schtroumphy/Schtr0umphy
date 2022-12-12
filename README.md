@@ -68,9 +68,6 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
+![github-wrapped](https://user-images.githubusercontent.com/42738178/207016647-c5eee7ad-d336-47b3-a3b2-9c6b73c6327a.png)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thessalene&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thessalene)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Thessalene/langs)](https://githubtrends.io)
