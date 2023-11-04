@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Martinique.
 
-- :telescope: I’m working as a Software Engineer and contributing to android app for SNCF transporter.
+- :telescope: I’m working as a Mobile Developer and contributed to android apps for SNCF transporter, social app for young adults or yet ticketing app for an international client.
 
 - :seedling: Exploring Technical Content Writing.
 
